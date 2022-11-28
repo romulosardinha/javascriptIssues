@@ -29,3 +29,78 @@ Em minha adolescência, estudei com um livro chamado "Questões de matemática" 
   var a
   ```
 </details>
+
+<details>
+  <summary>Crie uma constante que contenha uma string:</summary>
+
+  ```js
+  const a = 'Nome'
+  ```
+</details>
+
+<details>
+  <summary>Crie uma constante que contenha uma string:</summary>
+
+  ```js
+  const a = 'Nome'
+  ```
+</details>
+
+<details>
+  <summary>Crie uma constante que contenha uma string:</summary>
+
+  ```js
+  const a = 'Nome'
+  ```
+</details>
+
+<details>
+  <summary>Crie uma constante que contenha um número:</summary>
+
+  ```js
+  const a = 'Nome'
+  ```
+</details>
+
+<details>
+  <summary>Crie uma variável 'a' e tente declarala novamente, qual o erro?:</summary>
+
+</details>
+
+<details>
+  <summary>Como garantir que quando criar uma variável você não esteja sobreescrevendo outra?:</summary>
+
+</details>
+
+<details>
+  <summary>Crie uma variável sem nenhum valor usando let:</summary>
+  ```js
+  let a
+  ```
+</details>
+
+<details>
+  <summary>Como você guardaria o nome de um usuário na memória?:</summary>
+  ```js
+  let name = 'Maria'
+  ```
+</details>
+
+<details>
+  <summary>Como você guardaria o número PI na memória?:</summary>
+  ```js
+  const pi = 3.14
+  ```
+</details>
+
+<details>
+  <summary>Quando você usaria const e quando user let?:</summary>
+
+</details>
+
+<details>
+  <summary>Porque é melhor user let do que var?:</summary>
+
+</details>
+## Tipos de dados
+
